@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f14a1cb8-5e65-427e-8c7d-24ed1358cf3b" name="Changes" comment="" />
+    <list default="true" id="f14a1cb8-5e65-427e-8c7d-24ed1358cf3b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,11 +33,14 @@
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/selopia/WebstormProjects/redux-toolkit",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "npm.dev.executor": "Run",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
     "ts.external.directory.path": "/home/selopia/WebstormProjects/redux-toolkit/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -41,6 +50,7 @@
       <map>
         <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
         <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
       </map>
     </option>
   </component>
@@ -73,6 +83,7 @@
       <updated>1740215161421</updated>
       <workItem from="1740215162455" duration="107000" />
       <workItem from="1740215420818" duration="1304000" />
+      <workItem from="1740219011710" duration="3170000" />
     </task>
     <servers />
   </component>
